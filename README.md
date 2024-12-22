@@ -8,7 +8,7 @@ A local HTML link page allows you to design and structure links in a way that su
 **Portability and Independence:**  
 A locally saved HTML page is independent of the browser, meaning you can open it in any browser on any device without syncing accounts or exporting/importing bookmarks. This also ensures you're not tied to a single browser's bookmark system or subject to changes in browser updates.
 
-### Key Benefits in Bullet Points:
+### Key Benefits :
 - **Custom layout:** Design your link page with categories, icons, or visuals for easy navigation.
 - **Cross-browser accessibility:** Access your links from any browser without relying on browser-specific bookmark tools.
 - **Offline access:** Local files are accessible even without internet connectivity.
@@ -23,4 +23,4 @@ A locally saved HTML page is independent of the browser, meaning you can open it
 - **Self-hosting vs. Local Files:** Consider self-hosting your link page for remote access while keeping control.
 
 ### Style:
-= **Format of Page** Influenced by the Bulletin Board Systems of the 90s, Retro Green Text with Black Background, Link Highlight-Hover, Gif and Image Links
+- **Format of Page** Influenced by the Bulletin Board Systems of the 90s, Retro Green Text with Black Background, Link Highlight-Hover, Gif and Image Links
