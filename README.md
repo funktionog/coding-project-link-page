@@ -17,10 +17,5 @@ A locally saved HTML page is independent of the browser, meaning you can open it
 - **Avoid clutter:** Simplifies your browser interface by offloading bookmarks to an external page.
 - **Additional functionality:** Embed tools, widgets, or scripts into the link page for enhanced usability.
 
-### Further Reading and Related Topics:
-- **Web Development Basics:** Learn HTML and CSS to create personalized link pages.
-- **Digital Organization:** Explore tools like Notion or Obsidian for managing links and resources.
-- **Self-hosting vs. Local Files:** Consider self-hosting your link page for remote access while keeping control.
-
 ### Style:
 - **Format of Page** Influenced by the Bulletin Board Systems of the 90s, Retro Green Text with Black Background, Link Highlight-Hover, Gif and Image Links
