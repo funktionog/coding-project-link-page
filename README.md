@@ -22,4 +22,5 @@ A locally saved HTML page is independent of the browser, meaning you can open it
 - **Digital Organization:** Explore tools like Notion or Obsidian for managing links and resources.
 - **Self-hosting vs. Local Files:** Consider self-hosting your link page for remote access while keeping control.
 
-Would you like guidance on creating such an HTML link page?
+### Style:
+= **Format of Page** Influenced by the Bulletin Board Systems of the 90s, Retro Green Text with Black Background, Link Highlight-Hover, Gif and Image Links
